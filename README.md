@@ -4,7 +4,7 @@ Infrastructure as Code (Terraform), benchmarking automation (`sysbench`), and em
 
 *Conducted by **Mohamed Roble** as part of an MSc in Cloud Computing (Distinction, 90%) and currently being developed into a conference paper.*
 
-![Experimental AWS Architecture](docs/architecture.png)
+![Experimental AWS Architecture](DB-migration-analysis.png)
 
 ### Key Empirical Findings (`db.t3.medium`, Default Parameter Groups)
 
